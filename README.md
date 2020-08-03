@@ -71,7 +71,7 @@ Go (1 週間のプロジェクトで使用)
   - 国際的な職場環境でエンジニアと携わる。
   - 社内の様子やイベント情報をソーシャルメディアで発信。
   - Meetup や connpass のイベントページ作成、バナー作成。
-  - 英語または日本語を使ってインタビューし、15 人以上をインタビューし、記事を書く。
+  - 英語または日本語を使って 15 人以上をインタビューし、記事を書く。
     - [『教育者でもあり開発者!? Code Chrysalis の Educational Software Engineer 』](http://codechrysalis.hatenablog.com/entry/2019/09/20/120332)
     - [プログラミングスクールが提供する英語教育『English for Engineers』とは？](http://codechrysalis.hatenablog.com/entry/2019/06/25/122357)
 
