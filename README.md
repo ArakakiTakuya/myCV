@@ -1,4 +1,4 @@
-# 職務経歴書(2020 年 8 月 11 日更新)
+# 職務経歴書(2020 年 8 月 31 日更新)
 
 ## イントロダクション
 
@@ -11,10 +11,9 @@ React を使ったフロントエンドの開発を得意としています。<b
 
 ## 基本情報
 
-|          |                                                             |
-| -------- | ----------------------------------------------------------- |
-| 名前     | 新垣匠也 (あらかき たくや)                                  |
-| LinkedIn | [arakakitakuya](https://www.linkedin.com/in/arakakitakuya/) |
+|      |                            |
+| ---- | -------------------------- |
+| 名前 | 新垣匠也 (あらかき たくや) |
 
 ## スキル
 
@@ -238,7 +237,7 @@ API : SpotifyAPI,SpotifySDK<br><br>
 ## 登壇歴
 
 [API からデータを取得、自動スプレッドシート化まで](https://youtu.be/fhKgdzXkQeM?t=5382)<br>
-[My jonerney in tech industry](https://youtu.be/aUhk2Wzb8Hk?t=1889)<br><br>
+[My journey in tech industry](https://youtu.be/aUhk2Wzb8Hk?t=1889)<br><br>
 
 ## 自己 PR
 
